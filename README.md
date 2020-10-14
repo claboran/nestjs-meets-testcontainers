@@ -14,9 +14,20 @@ This project was generated using [Nx](https://nx.dev).
 🔎 **Nx is a set of Extensible Dev Tools for Monorepos.**
 
 ## Why Testcontainers?
-work in progress
+Testcontainers [Testcontainers](https://www.testcontainers.org/) is a library providing Docker based container instances for testing.
+Testcontainers is available for several technology stacks:
 
+* Java
+* Dotnet
+* Node
+* Go
 
+and more. Support for a broad range of testing frameworks is available as well.
+
+## NestJS and Testcontainers
+NestJS is one of the most advanced frameworks when it comes to develop backend applications on Node. Although the number resources
+providing examples for NestJS combined with Testcontainers are quite limited.
+The example project would like to fill the gap.     
 
 ## Further help
 
